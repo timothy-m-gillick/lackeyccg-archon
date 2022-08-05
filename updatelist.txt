@@ -1,5 +1,5 @@
 Archon	08-03-22
 plugins/Archon/plugininfo.txt	https://github.com/timothy-m-gillick/lackeyccg-archon/raw/main/plugininfo.txt	181031
-plugins/Amber/sets/setimages/general/cardback.jpg	https://github.com/timothy-m-gillick/lackeyccg-archon/raw/main/cardback.jpg	636053
+plugins/Archon/sets/setimages/general/cardback.jpg	https://github.com/timothy-m-gillick/lackeyccg-archon/raw/main/cardback.jpg	390128
 CardGeneralURLs:		
 https://drive.google.com/drive/folders/171myk1SjDlzZvsYOP5wMYghOT6UYDuXp
